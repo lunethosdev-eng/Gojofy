@@ -1,0 +1,20 @@
+{
+  "appId": "com.lunethosdev.gojofy",
+  "appName": "Gojofy",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#07090f",
+    "webContentsDebuggingEnabled": false
+  },
+  "plugins": {
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#07090f"
+    }
+  }
+}
